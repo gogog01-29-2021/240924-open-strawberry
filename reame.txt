@@ -1,0 +1,6 @@
+240924
+make grok+RL+Strawberry
+1.In neural 신경망
+2.
+3.
+
